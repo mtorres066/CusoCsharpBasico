@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prClase1", "prClase1\prClase1.csproj", "{35CB4E14-4287-499A-AB16-1302EED23F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prControles", "prControles\prControles.csproj", "{46300E94-8430-46FF-9EBD-267AA4A07DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35CB4E14-4287-499A-AB16-1302EED23F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CB4E14-4287-499A-AB16-1302EED23F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CB4E14-4287-499A-AB16-1302EED23F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CB4E14-4287-499A-AB16-1302EED23F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46300E94-8430-46FF-9EBD-267AA4A07DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46300E94-8430-46FF-9EBD-267AA4A07DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46300E94-8430-46FF-9EBD-267AA4A07DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46300E94-8430-46FF-9EBD-267AA4A07DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
